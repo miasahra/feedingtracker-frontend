@@ -1,3 +1,5 @@
+// eslint-disable-next-line eslint-comments/disable-enable-pair
+/* eslint-disable compat/compat */
 import React, { useEffect, Fragment, useState } from "react"
 import PropTypes from "prop-types"
 import { Link } from "react-router-dom"
