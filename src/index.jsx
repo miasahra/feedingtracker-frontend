@@ -1,6 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import "./css/styles.css"
+import "./css/tailwind.css"
 import axios from "axios"
 import App from "./components/App"
 
